@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /rails_projects/test
+    destination: /home/ec2-user/rails_projects/test
